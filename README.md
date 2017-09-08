@@ -8,7 +8,6 @@ You can quickly clone the repository using an app like [Working Copy](https://it
 
 ## Submitting workflows
 
-
 ## Apple Watch Screenshots
 
 [@jordanmerrick](https://twitter.com/jordanmerrick)
