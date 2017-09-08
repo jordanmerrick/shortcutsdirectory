@@ -32,10 +32,10 @@ You can quickly clone the repository using an app like [Working Copy](https://it
 - [HTML Link](#html-link)
 - [Image Details](#image-details)
 - [Init a New Repo](#init-a-new-repo)
-- [Latest @ Workflow Directory](#latest---workflow-directory)
+- [Latest @ Workflow Directory](#latest--workflow-directory)
 - [Log Air Quality Index to Health](#log-air-quality-index-to-health)
 - [Log Calories by Scanning a Barcode](#log-calories-by-scanning-a-barcode)
-- [Log Nutrient(s)](#log-nutrient-s-)
+- [Log Nutrient(s)](#log-nutrients)
 - [Log UV Index in Health](#log-uv-index-in-health)
 - [Lorem Ipsum Generator](#lorem-ipsum-generator)
 - [Make Workflow Link](#make-workflow-link)
@@ -82,7 +82,7 @@ You can quickly clone the repository using an app like [Working Copy](https://it
 - [URL Shortener](#url-shortener)
 - [View Twitter Profile in Tweetbot or Twitterrific](#view-twitter-profile-in-tweetbot-or-twitterrific)
 - [Waking Heart Rate Log](#waking-heart-rate-log)
-- [Zip/Unzip](#zip-unzip)
+- [Zip/Unzip](#zipunzip)
 
 ## Apple Watch Screenshots
 
