@@ -3,7 +3,7 @@ You can submit workflows in two ways:
 - Creating an issue on GitHub
 - submitting a pull request
 
-### Creating an issue on Github
+## Creating an issue on Github
 
 The easiest way to submit a workflow is to create a new issue on GitHub. A GitHub account is required. Follow the issue template and provide:
 
@@ -11,9 +11,9 @@ The easiest way to submit a workflow is to create a new issue on GitHub. A GitHu
 - A description
 - Link to the workflow at **workflow.is**
 
-### Submitting a pull request
+## Submitting a pull request
 
-If you're familiar with Git, you can fork this repository and create a pull request containing the workflow you wish to add. 
+If you're familiar with Git, you can create a pull request containing the workflow you wish to add. 
 
 Pull requests should include:
 
