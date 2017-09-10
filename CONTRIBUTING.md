@@ -16,7 +16,7 @@ The easiest way to submit a workflow is to create a new issue on GitHub. A GitHu
 
 ## Use the Submit to Workflow Directory workflow
 
-You can use [this workflow](workflows/Submit%20to%20Workflow%20/Directory/Submit%20to%20Workflow%20/Directory.wflow) to create a submission request automatically. Copy the link for the workflow you want to submit and then run this workflow to create the required GitHub issue for you.
+You can use [this workflow](workflows/Submit%20to%20Workflow%20Directory/Submit%20to%20Workflow%20Directory.wflow) to create a submission request automatically. Copy the link for the workflow you want to submit and then run this workflow to create the required GitHub issue for you.
 
 ## Submitting a pull request
 
