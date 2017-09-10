@@ -42,5 +42,5 @@ To export a workflow, open the Share Sheet and select **Share as File**. When ed
 
 If you're submitting an update to an existing workflow:
 
-    - Overwrite the existing **.wflow** file
-    - Update the README.md (if required)
+  - Overwrite the existing **.wflow** file
+  - Update the README.md (if required)
