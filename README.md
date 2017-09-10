@@ -13,4 +13,4 @@ You don't need a GitHub account or be familiar with [Git](https://en.wikipedia.o
 
 ## Submitting a workflow
 
-See the [Contributing guide](ONTRIBUTING.md) for instructions on submitting a new workflow (or updating an existing one). A GitHub account is required.
+See the [Contributing guide](CONTRIBUTING.md) for instructions on submitting a new workflow (or updating an existing one). A GitHub account is required.
