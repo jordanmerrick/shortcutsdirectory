@@ -14,7 +14,7 @@ Second, much improved version.
 - Remove App [Menu] - Self explanatory
 - Check Prices [Menu] - Compare prices of all apps in your list and see if any of them is currently on sale
 
-Pagination functionality was implemented from [/u/Neurogram]'s (https://www.reddit.com/user/Neurogram) workflow.
+Pagination functionality was implemented from [/u/Neurogram](https://www.reddit.com/user/Neurogram)'s workflow.
 
 On first run it will create a text file on your iCloud Drive which will act as the database of your apps.
 
