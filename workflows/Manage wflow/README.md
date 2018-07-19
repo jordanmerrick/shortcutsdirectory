@@ -5,6 +5,8 @@ Submitted by: [@melangue](https://github.com/melangue)
 Manage.wflow is a backup tool unlike most others.  
 It does not zip up workflows but copys them to iCloud in a created path and let's you restore them.
 
+[Get workflow](workflow://import-workflow/?url=https://github.com/jordanmerrick/workflowdirectory/raw/master/workflows/Manage%2520wflow/Manage.wflow)
+
 **Full disclosure:**  
 This workflow was created by [/u/bigdeeb](https://www.reddit.com/user/bigdeeb) and I found it on [reddit](https://www.reddit.com/r/workflow/comments/64ev7a/managewflow/).  
 It was quite extensively modified by me and there a lot of new features.  

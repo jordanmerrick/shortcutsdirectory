@@ -20,3 +20,5 @@ On first run it will create a text file on your iCloud Drive which will act as t
 
 You can change the region and currency in the first dictionary action.  
 If you live in a country which puts the currency sign after the amount you can change that order in the first text block underneath the dictionary.
+
+[Get workflow](workflow://import-workflow/?url=https://github.com/jordanmerrick/workflowdirectory/raw/master/workflows/Wishlist/Wishlist.wflow)
