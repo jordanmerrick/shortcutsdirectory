@@ -1,46 +1,41 @@
-You can submit a new workflow, or an update to an existing one, in three different ways:
+You can submit a new shortcut, or an update to an existing one, in three different ways:
 
 - Submitting a pull request
 - Creating an issue on GitHub
-- Use the **Submit to Workflow Directory** workflow
 
-If your workflow makes use of an API, make sure that you use Import Questions and remove your API keys before submitting. It should not violate an API developer's terms of service as it would result in consequences for the user of the workflow.
+If your shortcut makes use of an API, make sure that you use Import Questions and remove your API keys before submitting. It should not violate an API developer's terms of service as it would result in consequences for the user of the shortcut.
 
 ## Submitting a pull request
 
-If you're familiar with Git, you can create a pull request containing the workflow you wish to add. When creating a pull request, make sure that the following steps are taken:
+If you're familiar with Git, you can create a pull request containing the shortcut you wish to add. When creating a pull request, make sure that the following steps are taken:
 
-- Create a new directory for your workflow
-- The **.wflow** workflow file is placed in this directory
+- Create a new directory for your shortcut
+- The **.shortcut** file is placed in this directory
 - A README.md is created and added to this directory
 
 ### Format for README
 
-The README for a workflow uses the following structure:
+The README for a shortcut uses the following structure:
 
-    # Workflow Title
+    # Shortcut Title
     
     Submitted by: [@your_github_username](https://github.com/your_github_username)
    
-    A brief description of the workflow (and any instructions, if necessary).
+    A brief description of the shortcut (and any instructions, if necessary).
 
-To export a workflow, open the Share Sheet and select **Share as File**.
+To export a shortcut, open the Share Sheet and select **Share as File**.
 
-### Updating a workflow
+### Updating a shortcut
 
-If you're submitting an update to an existing workflow:
+If you're submitting an update to an existing shortcut:
 
-- Overwrite the existing **.wflow** file
+- Overwrite the existing **.shortcut** (or **.wflow**) file
 - Update the README.md (if required)
 
 ## Creating an issue on Github
 
-The easiest way to submit a workflow is to create a new issue on GitHub. A GitHub account is required. Follow the issue template and provide:
+The easiest way to submit a shortcut is to create a new issue on GitHub. A GitHub account is required. Follow the issue template and provide:
 
-- Workflow name
+- Shortcut name
 - A description
-- Link to the workflow at **workflow.is**
-
-## Use the Submit to Workflow Directory workflow
-
-You can use [this workflow](workflows/Submit%20to%20Workflow%20Directory/Submit%20to%20Workflow%20Directory.wflow) to create a submission request automatically. Copy the link for the workflow you want to submit and then run this workflow to create the required GitHub issue for you.
+- iCloud link to the shortcut
